@@ -1,5 +1,5 @@
 {
-  "name": "Jaya/sauce/sausage",
+  "name": "jayak/sauce-sausage",
   "type": "sauce-sausage",
   "description": "PHP version of the Sauce Labs API",
   "keywords": ["sauce", "saucelabs", "api", "testing", "phpunit", "selenium", "appium"],
